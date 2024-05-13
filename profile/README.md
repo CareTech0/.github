@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="logoazul 1.png" width="400em">
+<div style="display: flex; justify-content: center;">
+  <img src="logoazul 1.png" width="400em" style="margin-right: 10px;">
   <img src="sptech_logo_negativa_1.png" width="300em">
 </div>
 
