@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logoazul 1.png" width="550em">
+  <img src="logoazul 1.png" width="400em">
   <img src="sptech_logo_negativa_1.png" width="350em">
 </div>
 
