@@ -1,4 +1,4 @@
-<div align="center style="display: flex; justify-content: center;">
+<div align="center">
   <img src="logoazul 1.png" width="400em">
   <img src="sptech_logo_negativa_1.png" width="200em">
 </div>
